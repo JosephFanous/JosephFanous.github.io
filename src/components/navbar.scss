@@ -1,0 +1,15 @@
+.navbar {
+    background-color: black;
+    width: 100%;
+    height: 65px;
+    position: fixed;
+    top: 0;
+    // box-shadow: 1px 1px 4px $mainColor;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+}
