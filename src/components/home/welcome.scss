@@ -18,8 +18,15 @@ body, html {
   justify-content: center;
   align-items: center;
 
+  img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    margin-right: 30px;
+  }
+
   .box {
-    width: 250px;
+    width: 275px;
     height: 250px;
     position: relative;
     display: flex;

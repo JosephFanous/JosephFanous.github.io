@@ -1,9 +1,9 @@
-import './home.scss';
+import './projects.scss';
 
 export default function Home() {
     return (
-        <div>
-            
+        <div className='proj'>
+
         </div>
     )
 }
