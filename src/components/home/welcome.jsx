@@ -3,7 +3,7 @@ import Pic from '../../media/me.JPG';
 
 export default function welcome() {
     return (
-        <div class="container">
+        <div class="container" id='p1'>
             <img src={Pic} alt='me' id='meep' />
             <div class="box">
                 <div class="title">
@@ -18,5 +18,3 @@ export default function welcome() {
         </div>
     )
 }
-
-

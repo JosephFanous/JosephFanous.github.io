@@ -2,7 +2,7 @@
   "name": "josephfanous.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://josephfanous.github.io/josephfanous.github.io ",
+  "homepage": "https://josephfanous.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -11,6 +11,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "react-scroll": "^1.8.3",
     "web-vitals": "^1.0.1"
   },
   "scripts": {

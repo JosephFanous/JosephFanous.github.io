@@ -16,15 +16,18 @@
     ul {
         display: flex;
         flex-direction: row;
-
         li {
             color: white;
             margin-left: 30px;
-
+            list-style-type: none;
             &:hover {
-                color: yellow;
+                color: #beb4e3;
                 cursor: pointer;
             }
         }
+    }
+
+    & .active {
+        color: #beb4e3;
     }
 }
