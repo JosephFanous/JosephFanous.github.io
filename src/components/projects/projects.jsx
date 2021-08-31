@@ -2,8 +2,8 @@ import './projects.scss';
 
 export default function Home() {
     return (
-        <div className='proj'>
-
+        <div className='proj' id='p2'>
+         
         </div>
     )
 }

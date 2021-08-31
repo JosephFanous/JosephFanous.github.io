@@ -8,9 +8,15 @@ export default function navbar() {
                 <li><Link activeClass="active" className="test1" to='p1' spy={true} smooth={true} duration={1000}>
                     Home
                 </Link></li>
-                <li>Projects</li>
-                <li>Resume</li>
-                <li>Contact</li>
+                <li><Link activeClass="active" className="test1" to='p2' spy={true} smooth={true} duration={1000}>
+                    Projects
+                </Link></li>
+                <li><Link activeClass="active" className="test1" to='p3' spy={true} smooth={true} duration={1000}>
+                Resume
+                </Link></li>
+                <li><Link activeClass="active" className="test1" to='p4' spy={true} smooth={true} duration={1000}>
+                Contact
+                </Link></li>
             </ul>
         </div>
     )
