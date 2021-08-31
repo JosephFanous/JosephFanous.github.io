@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/josephfanous.github.io%20/static/css/main.db6cf311.chunk.css",
-    "main.js": "/josephfanous.github.io%20/static/js/main.1d9864dc.chunk.js",
-    "main.js.map": "/josephfanous.github.io%20/static/js/main.1d9864dc.chunk.js.map",
-    "runtime-main.js": "/josephfanous.github.io%20/static/js/runtime-main.c366470a.js",
-    "runtime-main.js.map": "/josephfanous.github.io%20/static/js/runtime-main.c366470a.js.map",
-    "static/js/2.e5dcf119.chunk.js": "/josephfanous.github.io%20/static/js/2.e5dcf119.chunk.js",
-    "static/js/2.e5dcf119.chunk.js.map": "/josephfanous.github.io%20/static/js/2.e5dcf119.chunk.js.map",
-    "static/js/3.032b0f1a.chunk.js": "/josephfanous.github.io%20/static/js/3.032b0f1a.chunk.js",
-    "static/js/3.032b0f1a.chunk.js.map": "/josephfanous.github.io%20/static/js/3.032b0f1a.chunk.js.map",
+    "main.css": "/josephfanous.github.io%20/static/css/main.1859eecd.chunk.css",
+    "main.js": "/josephfanous.github.io%20/static/js/main.b80ee3c9.chunk.js",
+    "main.js.map": "/josephfanous.github.io%20/static/js/main.b80ee3c9.chunk.js.map",
+    "runtime-main.js": "/josephfanous.github.io%20/static/js/runtime-main.5828e80c.js",
+    "runtime-main.js.map": "/josephfanous.github.io%20/static/js/runtime-main.5828e80c.js.map",
+    "static/js/2.ce7dd1f8.chunk.js": "/josephfanous.github.io%20/static/js/2.ce7dd1f8.chunk.js",
+    "static/js/2.ce7dd1f8.chunk.js.map": "/josephfanous.github.io%20/static/js/2.ce7dd1f8.chunk.js.map",
+    "static/js/3.17c747ba.chunk.js": "/josephfanous.github.io%20/static/js/3.17c747ba.chunk.js",
+    "static/js/3.17c747ba.chunk.js.map": "/josephfanous.github.io%20/static/js/3.17c747ba.chunk.js.map",
     "index.html": "/josephfanous.github.io%20/index.html",
-    "static/css/main.db6cf311.chunk.css.map": "/josephfanous.github.io%20/static/css/main.db6cf311.chunk.css.map",
-    "static/js/2.e5dcf119.chunk.js.LICENSE.txt": "/josephfanous.github.io%20/static/js/2.e5dcf119.chunk.js.LICENSE.txt",
+    "static/css/main.1859eecd.chunk.css.map": "/josephfanous.github.io%20/static/css/main.1859eecd.chunk.css.map",
+    "static/js/2.ce7dd1f8.chunk.js.LICENSE.txt": "/josephfanous.github.io%20/static/js/2.ce7dd1f8.chunk.js.LICENSE.txt",
     "static/media/me.08664cf5.JPG": "/josephfanous.github.io%20/static/media/me.08664cf5.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.c366470a.js",
-    "static/js/2.e5dcf119.chunk.js",
-    "static/css/main.db6cf311.chunk.css",
-    "static/js/main.1d9864dc.chunk.js"
+    "static/js/runtime-main.5828e80c.js",
+    "static/js/2.ce7dd1f8.chunk.js",
+    "static/css/main.1859eecd.chunk.css",
+    "static/js/main.b80ee3c9.chunk.js"
   ]
 }
