@@ -1,6 +1,32 @@
-.proj{
+@import "../../fonts.scss";
+
+.proj {
     width: 100%;
+    //height: calc(100vh - 65px);
     height: 100vh;
     background-color: #353535;
-    top: 65px;
+    //top: 65px;
+    //padding-top: 65px;
+    display: flex;
+    flex-direction: column;
+    #mid {
+        text-align: center;
+
+        h2 {
+            margin-top: 65px;
+            color: #6fddc1;
+            font-size: $fSize;
+            font-family: Courier;
+        }
+
+        // p {
+        //     color: #6fddc1;
+        //     font-size: $fSize;
+        //     font-family: Courier;
+        // }
+    }
+
+    #car {
+        padding: 0 20px;
+    }
 }
