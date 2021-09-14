@@ -10,24 +10,15 @@
     padding-top: 65px;
     display: flex;
     flex-direction: column;
-    #mid {
+    .title {
         text-align: center;
 
-        h2 {
+        h1 {
             margin-top: 65px;
             color: #6fddc1;
             font-size: $fSize;
             font-family: Courier;
         }
 
-        // p {
-        //     color: #6fddc1;
-        //     font-size: $fSize;
-        //     font-family: Courier;
-        // }
-    }
-
-    #car {
-        padding: 0 20px;
     }
 }
