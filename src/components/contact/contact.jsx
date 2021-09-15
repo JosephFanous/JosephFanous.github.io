@@ -4,7 +4,7 @@ import EmailIcon from '@material-ui/icons/Email';
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import LocationOnIcon from '@material-ui/icons/LocationOn';
-import PhoneEnabledIcon from '@material-ui/icons/PhoneEnabled';
+import PhoneIcon from '@material-ui/icons/Phone';
 export default function contact() {
     return (
         <div className='contact' id='p4'>
@@ -28,7 +28,7 @@ export default function contact() {
 
                         <div className="icon-container">
                             <a href="tel:+16473285716">
-                                <PhoneEnabledIcon className='icon' /></a>
+                                <PhoneIcon className='icon' /></a>
                             {/* <p>+1 647 328 5716</p> */}
                         </div>
 
